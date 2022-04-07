@@ -4,15 +4,15 @@ const data = {
   },
   TestData: {
     OwnerDetails: {
-      firstName: "test",
-      lastName: "alpha",
-      address: "chennai",
-      city: "chennai",
-      telephone: "12345"
+      firstName: "Sam",
+      lastName: "Victor",
+      address: "test",
+      city: "Pune",
+      telephone: "59855"
     },
     PetDetails: {
-      petName: "lucky",
-      dob: "2022-01-01"
+      petName: "chukoo",
+      dob: "2021-01-07"
     },
     ExpectedPetTypes: ["bird", "cat", "dog", "hamster", "lizard", "snake"],
     ActualPetDetails: []
